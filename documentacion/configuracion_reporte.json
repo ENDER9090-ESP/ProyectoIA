@@ -1,0 +1,18 @@
+{
+    "universidad": "Universidad Autónoma de Tamaulipas (UAT)",
+    "facultad": "Facultad de Ingeniería Tampico (FIT)",
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "materia": "INTELIGENCIA ARTIFICIAL",
+    "tipo_trabajo": "PROYECTO FINAL",
+    "titulo": "Desarrollo y evaluación de un modelo de aprendizaje supervisado para la predicción de la calidad del vino tinto mediante regresión lineal múltiple",
+    "integrantes": [
+        "Francisco Mogollón José Antonio",
+        "Gómez Sánchez Haziel Emiliano",
+        "Hernández González Brian Satihs"
+    ],
+    "profesor": "Martínez Ponce Mario Alberto",
+    "grupo": "",
+    "lugar": "Tampico, Tamaulipas, México",
+    "fecha": "23 de noviembre de 2026",
+    "logo_institucional": "logos_institucionales.png"
+}

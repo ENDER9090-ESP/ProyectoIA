@@ -1,0 +1,27 @@
+{
+    "algoritmo": "Regresión Lineal Múltiple (LinearRegression)",
+    "dataset": "winequality-red-limpio.csv",
+    "variable_objetivo": "quality",
+    "orden_variables_independientes": [
+        "fixed acidity",
+        "volatile acidity",
+        "citric acid",
+        "residual sugar",
+        "chlorides",
+        "free sulfur dioxide",
+        "total sulfur dioxide",
+        "density",
+        "pH",
+        "sulphates",
+        "alcohol"
+    ],
+    "registros_entrenamiento": 1087,
+    "registros_prueba": 272,
+    "semilla_aleatoria": 42,
+    "porcentaje_entrenamiento": 80.0,
+    "porcentaje_prueba": 20.0,
+    "porcentaje_entrenamiento_real": 79.99,
+    "porcentaje_prueba_real": 20.01,
+    "metodo_escalado": "StandardScaler",
+    "intercepto": 5.636614535418583
+}

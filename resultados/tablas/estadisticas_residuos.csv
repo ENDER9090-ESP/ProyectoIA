@@ -1,0 +1,9 @@
+﻿Estadística,Valor,Interpretación
+Media de los residuos,-0.06766614038527337,"Sesgo promedio en prueba (>0 subestima, <0 sobreestima)."
+Mediana de los residuos,-0.0966148708421013,Valor central de los residuos en prueba.
+Desviación estándar,0.6542200257348356,Dispersión muestral (ddof=1) de los residuos.
+Residuo mínimo,-2.206672188277574,Mayor sobreestimación (Calidad_real - Calidad_predicha).
+Residuo máximo,1.9077251078324444,Mayor subestimación (Calidad_real - Calidad_predicha).
+Cantidad de residuos positivos,122.0,Registros donde el modelo subestimó la calidad (residuo > 1e-06).
+Cantidad de residuos negativos,150.0,Registros donde el modelo sobreestimó la calidad (residuo < -1e-06).
+Cantidad de residuos iguales a cero,0.0,Predicciones dentro de la tolerancia |residuo| <= 1e-06.

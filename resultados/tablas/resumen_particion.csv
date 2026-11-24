@@ -1,0 +1,4 @@
+﻿Conjunto,Registros,Porcentaje (%),Columnas X,Dimensiones X,Dimensiones y,Semilla aleatoria
+Entrenamiento,1087,79.99,11,"(1087, 11)","(1087,)",42
+Prueba,272,20.01,11,"(272, 11)","(272,)",42
+Total,1359,100.0,11,"(1359, 11)","(1359,)",42

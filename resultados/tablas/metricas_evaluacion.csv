@@ -1,0 +1,5 @@
+﻿Métrica,Valor,Fórmula,Descripción
+MSE,0.4310090050900972,MSE = (1/n) * suma((y_real - y_pred)^2),Promedio de errores al cuadrado; penaliza errores grandes (unidades de calidad al cuadrado).
+RMSE,0.656512760797608,RMSE = raiz_cuadrada(MSE),Raíz del MSE; error típico expresado en la misma escala que la calidad del vino.
+MAE,0.5041409053480713,MAE = (1/n) * suma(abs(y_real - y_pred)),Promedio de diferencias absolutas; indica cuántos puntos de calidad se equivoca en promedio.
+R²,0.3915360499058188,R² = 1 - (suma((y_real - y_pred)^2) / suma((y_real - media)^2)),Proporción de variabilidad de quality explicada por el modelo (no es un porcentaje de exactitud de clasificación).
